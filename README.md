@@ -13,18 +13,9 @@ A Claude Code plugin that extracts image styles from frontend design prototypes 
 
 ## Installation
 
-### From Marketplace
-
-If your team has the Axelerant marketplace configured:
-
 ```
-/plugin install drupal-image-styles@axelerant-plugins
-```
-
-### Manual (Development)
-
-```bash
-claude --plugin-dir /path/to/claude-drupal-image-styles
+/plugin marketplace add rathermuneer/skills
+/plugin install drupal-image-styles@skills
 ```
 
 ## Usage
