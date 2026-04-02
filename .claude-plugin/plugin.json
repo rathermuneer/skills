@@ -3,8 +3,8 @@
   "description": "Extract image styles from design prototypes and generate Drupal image style config YAML. Crawls design URLs, identifies dimensions, aspect ratios, and responsive variants, then outputs ready-to-import config.",
   "version": "1.0.0",
   "author": {
-    "name": "Axelerant",
-    "url": "https://github.com/axelerant"
+    "name": "Muneer Ahmed",
+    "url": "https://github.com/rathermuneer"
   },
   "license": "MIT",
   "keywords": ["drupal", "image-styles", "design", "config", "responsive-images"]
