@@ -1,3 +1,5 @@
+# Skills from rathermuneer
+
 # Drupal Image Styles Plugin
 
 A Claude Code plugin that extracts image styles from frontend design prototypes and generates Drupal image style configuration YAML — ready to import.
